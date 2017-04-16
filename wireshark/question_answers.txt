@@ -1,0 +1,95 @@
+challenge01.
+
+what is the name of the proxy server used?
+what type of proxy server is being used?
+
+1. What is the name of Ann’s IM buddy?
+2. What was the first comment in the captured IM conversation?
+3. What is the name of the file Ann transferred?
+4. What is the magic number of the file you want to extract (first four bytes)?
+5. What was the MD5sum of the file?
+6. What is the secret recipe?
+
+
+1. What is the name of Ann’s IM buddy?
+sec558user1
+
+2. What was the first comment in the captured IM conversation?
+Here’s the secret recipe… I just downloaded it from the file server. Just copy to a thumb drive and you’re good to go >:-)
+
+3. What is the name of the file Ann transferred?
+recipe.docx
+
+4. What is the magic number of the file you want to extract (first four bytes)?
+0x504B0304 (Note: one byte = 8 bits = 2 hex digits!)
+
+5. What was the MD5sum of the file?
+8350582774e1d4dbe1d61d64c89e0ea1
+
+6. What is the secret recipe?
+Recipe for Disaster:
+1 serving
+Ingredients:
+4 cups sugar
+2 cups water
+In a medium saucepan, bring the water to a boil. Add sugar. Stir gently over low heat until sugar is fully dissolved. 
+Remove the saucepan from heat. Allow to cool completely. Pour into gas tank. Repeat as necessary.
+
+
+
+
+
+
+challenge02.
+
+
+
+1. What is Ann’s email address?
+2. What is Ann’s email password?
+3. What is Ann’s secret lover’s email address?
+4. What two items did Ann tell her secret lover to bring?
+5. What is the NAME of the attachment Ann sent to her secret lover?
+6. What is the MD5sum of the attachment Ann sent to her secret lover?
+7. In what CITY and COUNTRY is their rendez-vous point?
+8. What is the MD5sum of the image embedded in the document?
+
+
+
+1. What is Annâ€™s email address?
+Answer 1: sneakyg33k@aol.com
+
+2. What is Annâ€™s email password?
+Answer 2: 558r00lz
+
+3. What is Annâ€™s secret loverâ€™s email address?
+Answer 3: mistersecretx@aol.com
+
+4. What two items did Ann tell her secret lover to bring?
+Answer 4: A fake passport and a bathing suit
+
+5. What is the NAME of the attachment Ann sent to her secret lover?
+Answer 5: secretrendezvous.docx
+
+6. What is the MD5sum of the attachment Ann sent to her secret lover?
+Answer 6: 9e423e11db88f01bbff81172839e1923
+
+7. In what CITY and COUNTRY is their rendez-vous point?
+Answer 7: Playa del Carmen, Mexico
+
+8. What is the MD5sum of the image embedded in the document?
+Answer 8: aadeace50997b1ba24b09ac2ef1940b7
+
+
+challenge03
+
+Which systems (i.e. IP addresses) are involved? (2pts)
+What can you find out about the attacking host (e.g., where is it located)? (2pts)
+How many TCP sessions are contained in the dump file? (2pts)
+How long did it take to perform the attack? (2pts)
+Which operating system was targeted by the attack? And which service? Which vulnerability? (6pts)
+Can you sketch an overview of the general actions performed by the attacker? (6pts)
+What specific vulnerability was attacked? (2pts)
+What actions does the shellcode perform? Pls list the shellcode. (8pts)
+Do you think a Honeypot was used to pose as a vulnerable victim? Why? (6pts)
+Was there malware involved? Whats the name of the malware? (We are not looking for a detailed malware analysis for this challenge) (2pts)
+Do you think this is a manual or an automated attack? Why? (2pts)
